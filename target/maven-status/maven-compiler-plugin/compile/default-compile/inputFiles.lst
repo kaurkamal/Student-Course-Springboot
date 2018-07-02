@@ -1,0 +1,12 @@
+/Users/kaurk/Downloads/untitled/src/main/java/com/cdk/assignment4/model/Student.java
+/Users/kaurk/Downloads/untitled/src/main/java/com/cdk/assignment4/Exception/ExceptionResponse.java
+/Users/kaurk/Downloads/untitled/src/main/java/com/cdk/assignment4/repository/StudentRepository.java
+/Users/kaurk/Downloads/untitled/src/main/java/com/cdk/assignment4/service/StudentService.java
+/Users/kaurk/Downloads/untitled/src/main/java/com/cdk/assignment4/Exception/StudentNotFoundException.java
+/Users/kaurk/Downloads/untitled/src/main/java/com/cdk/assignment4/model/Course.java
+/Users/kaurk/Downloads/untitled/src/main/java/com/cdk/assignment4/service/CourseService.java
+/Users/kaurk/Downloads/untitled/src/main/java/com/cdk/assignment4/Exception/ExceptionHanlingController.java
+/Users/kaurk/Downloads/untitled/src/main/java/com/cdk/assignment4/controller/StudentController.java
+/Users/kaurk/Downloads/untitled/src/main/java/com/cdk/assignment4/repository/CourseRepository.java
+/Users/kaurk/Downloads/untitled/src/main/java/com/cdk/assignment4/controller/CourseController.java
+/Users/kaurk/Downloads/untitled/src/main/java/com/cdk/assignment4/Application.java
